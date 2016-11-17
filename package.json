@@ -1,0 +1,26 @@
+{
+  "name": "npm-ipu",
+  "version": "1.0.0",
+  "description": "Safe npm update",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leobalter/npm-ipu.git"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "update",
+    "prune"
+  ],
+  "author": "Leo Balter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leobalter/npm-ipu/issues"
+  },
+  "homepage": "https://github.com/leobalter/npm-ipu#readme"
+}
